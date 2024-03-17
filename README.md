@@ -1,6 +1,6 @@
 In this project, Google appstore data analysis takes place.
 
-the dataset contains
+The dataset contains
 
 Name : Name of the Application
 
